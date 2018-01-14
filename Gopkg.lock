@@ -1,0 +1,13 @@
+memo = "a598743a680004a2ef78159dc9b721a2e82bbe2a748f10d87b884930aa6f2bb6"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/pkg/errors"
+  packages = ["."]
+  revision = "c605e284fe17294bda444b34710735b29d1a9d90"
+
+[[projects]]
+  branch = "master"
+  name = "golang.org/x/net"
+  packages = ["websocket"]
+  revision = "434ec0c7fe3742c984919a691b2018a6e9694425"
